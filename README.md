@@ -8,7 +8,7 @@ This script extracts job postings for a given query (e.g., 'Data Analyst') in Ca
 
 - R installed on your system
 - `httr` and `jsonlite` libraries installed in R
-- A valid SerpAJPI key
+- A valid SerpAPI key
 
 ## Installation
 
